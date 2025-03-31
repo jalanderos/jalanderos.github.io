@@ -15,7 +15,7 @@ I’d be glad to learn about your interests, so please feel free to reach out!
 
 Upcoming Events
 ======
-**June 23-27, 2025** I will be attending the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Charleston, South Carolina, where I will present my work on data analysis and uncertainty quantification for coronal hole boundary detection in multi-spectral solar imagery.
+**June 23-27, 2025** I will be attending the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Charleston, South Carolina, where I will present our work on data analysis and uncertainty quantification for coronal hole boundary detection in multi-spectral solar imagery.
 
 Recent News
 ======
