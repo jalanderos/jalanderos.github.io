@@ -11,7 +11,7 @@ Hello! I am a first-year PhD student under [Dr. Boris Kramer](http://kramer.ucsd
 
 I am broadly interested in computational methods for understanding and predicting diverse fluid flows, including methods for modeling, data analysis, and Uncertainty Quantification (UQ) of systems ranging from liquid rockets to the space weather-driving solar atmosphere. In particular, I’m excited to work on data-driven Reduced-Order Models (ROMs) and inverse problems for such systems in future research.
 
-I’d be glad to learn about your interests, so please feel free to reach out!
+I’d be glad to learn about your interests, so please feel free to reach out! My email and LinkedIn are under the above Follow button.
 
 Upcoming Events
 ======
