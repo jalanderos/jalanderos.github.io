@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
-<!-- {% if site.publication_category %}
+{% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -30,10 +30,4 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %} -->
-
-Landeros, J.A., Kirk, M.S., Arge, C.N. et al. Magnetic Field-Constrained Ensemble Image Segmentation of Coronal Holes in Chromospheric Observations. Sol Phys 300, 10 (2025). [https://doi.org/10.1007/s11207-024-02416-6](https://doi.org/10.1007/s11207-024-02416-6)
-
-Preprints
-======
-Grajeda, J.A., Boucheron, L.E., Kirk, M.S., Leisner, A., Arge, C.N., and Landeros, J.A. Incorporating Magnetic Field Characteristics into EUV-Based Automated Segmentation of Coronal Holes. arXiv preprint (2025). [https://doi.org/10.48550/arXiv.2501.13211](https://doi.org/10.48550/arXiv.2501.13211)
+{% endif %}
