@@ -11,7 +11,9 @@ Hello! I am a first-year PhD student under [Dr. Boris Kramer](http://kramer.ucsd
 
 I am broadly interested in computational methods for understanding and predicting diverse fluid flows, including methods for modeling, data analysis, and Uncertainty Quantification (UQ) of systems ranging from liquid rockets to the space weather-driving solar atmosphere. In particular, I’m excited to work on data-driven Reduced-Order Models (ROMs) and inverse problems for such systems in future research.
 
-I took interest in these areas during my undergraduate in aerospace engineering at Cal Poly Pomona, where I was lucky enough to intern with NASA and the National Center for Atmospheric Research (NCAR), as well as take part in a university rocketry project. During my three-year remote internship with the
+I took interest in these areas during my undergraduate in aerospace engineering at Cal Poly Pomona, where I was lucky enough to intern with NASA and the National Center for Atmospheric Research (NCAR), as well as take part in a university rocketry project. I was also given the opportunity to work in leadership roles as lead intern for the NASA Heliophysics Division and as a lead/student mentor in my university rocketry project.
+
+During my three-year remote internship with the
 [NASA Goddard Solar Physics Laboratory](https://science.gsfc.nasa.gov/heliophysics/solar), I worked under
 [Dr. Nick Arge](https://science.gsfc.nasa.gov/sci/bio/charles.n.arge), 
 [Dr. Michael Kirk](https://science.gsfc.nasa.gov/sci/bio/michael.s.kirk), and
@@ -19,18 +21,22 @@ I took interest in these areas during my undergraduate in aerospace engineering 
 on (i) computational data analysis research for boundary detection with UQ of low density regions in the Sun’s atmosphere, known as coronal holes, using multi-spectral imagery, (ii) simulation analysis and visualization software development for the WSA ensemble model of the corona, and (iii) development of the
 [WSA Dasboard](https://ccmc.gsfc.nasa.gov/community-tools/WSA-Dashboard/), a visualization website for the WSA model (Slides are available
 [here](https://zenodo.org/records/14791324)). 
+
 During my one-year remote internship with the
 [NCAR High Altitude Observatory](https://www2.hao.ucar.edu/), I worked under
 [Dr. Mike Wiltberger](https://www2.hao.ucar.edu/directory/mike-wiltberger) and
 [Dr. Nick Gross](https://www.linkedin.com/in/nicholasgross1) 
 on visualization software development for the [MAS]( https://www.predsci.com/corona/apr2024eclipse/mas.php) and
 [GAMERA](https://cgs.jhuapl.edu/Models/gamera.php)
-magnetohydrodynamic (mag...ic for short...) models of the corona, solar wind, and Earth’s magnetosphere.
+magnetohydrodynamic (mag...ic for short...) models of the corona, solar wind, and Earth’s magnetosphere (Slides are available
+[here](https://zenodo.org/records/8417430)). 
+
 During my two-year involvement in the [Cal Poly Pomona Liquid Rocket Laboratory](https://www.cpplrl.com/), I worked under
 [Dr. Frank Chandler](https://www.linkedin.com/in/frank-chandler-17237b33/)
 on (i) physics-based surrogate model development for a liquid rocket, including flight dynamics one-way coupled to a time-dependent thermal-fluid network modeling the propulsion system, (ii) application of the model in Monte Carlo simulation-based UQ and open-loop control design for optimal peak altitude in flight, and (iii) statistical data analysis of our
 ([successful!](https://www.instagram.com/p/CdRmXUmMqK7/?hl=en))
-liquid rocket engine tests. I was also given the opportunity to work in leadership roles as lead intern for the NASA Heliophysics Division and as a lead/student mentor in my university rocketry project.
+liquid rocket engine tests.
+
 
 
 I’d be glad to learn about your interests, so please feel free to reach out! My email and LinkedIn are under the above Follow button.
