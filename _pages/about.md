@@ -37,9 +37,7 @@ on (i) physics-based surrogate model development for a liquid rocket, including 
 ([successful!](https://www.instagram.com/p/CdRmXUmMqK7/?hl=en))
 liquid rocket engine tests.
 
-
-
-I’d be glad to learn about your interests, so please feel free to reach out! My email and LinkedIn are under the above Follow button.
+I'd be glad to learn about your interests, so please feel free to reach out! My email and LinkedIn are under the above Follow button.
 
 Upcoming Events
 ======
@@ -47,6 +45,10 @@ Upcoming Events
 
 Recent News
 ======
+**April 26, 2025** I attended the [Southern California Applied Mathematics Symposium (SOCAMS)](https://www.socams.org/) at UC Riverside, where I learned about research ranging from optimization and inverse problem theory to fluid mechanics and biology applications.
+
+**April 12, 2025** It was great to be at the [Barrio Logan Science and Art Expo](https://www.barriologansae.com/) with our research group and UC San Diego rocketry project teams, where we hosted space-themed outreach booths and got to see the excitement of so many kids and families.
+
 **November 19-20, 2024** I attended the [Workshop on Fusion Energy and Pulsed Power](https://cer.ucsd.edu/_news-events-articles/2024/fusion-energy-and-pulsed-power-workshop.html) here at UC San Diego, where I learned about numerical models for plasmas in nuclear fusion devices and across astrophysics. It’s been incredibly interesting, both in this workshop and through seminars and courses on campus, to learn about the differences between the fusion, astrophysics, and heliophysics communities despite their shared study of plasmas.
 
 **October 6-8, 2024** It was a great experience to participate in the [NextProf Pathfinder](https://nextprof.engin.umich.edu/nextprof-pathfinder/) workshop at Georgia Tech, where I was given advice by so many nice students and mentors, learned about the variety of careers in academia, and learned about the even greater variety of winding and rewarding paths towards them.
