@@ -19,7 +19,7 @@ During my three-year remote internship with the
 [Dr. Michael Kirk](https://science.gsfc.nasa.gov/sci/bio/michael.s.kirk), and
 [Dr. Daniel da Silva](https://danieldasilva.org) 
 on (i) computational data analysis research for boundary detection with UQ of low density regions in the Sun’s atmosphere, known as coronal holes, using multi-spectral imagery, (ii) simulation analysis and visualization software development for the WSA ensemble model of the corona, and (iii) development of the
-[WSA Dasboard](https://ccmc.gsfc.nasa.gov/community-tools/WSA-Dashboard/), a visualization website for the WSA model (Slides are available
+[WSA Dashboard](https://ccmc.gsfc.nasa.gov/community-tools/WSA-Dashboard/), a visualization website for the WSA model (Slides are available
 [here](https://zenodo.org/records/14791324)). 
 
 During my one-year remote internship with the
@@ -63,4 +63,4 @@ Recent News
 
 **May 20-23, 2024** I attended the [Space Weather with Quantified Uncertainties (SWQU) User Meeting](https://uahspace.wixsite.com/swqu/events) at the University of Alabama in Huntsville, where I learned about data-assimilative numerical models for flows over the solar surface, the structure of the solar atmosphere, and the dynamics of the solar wind.
 
-**December 10-15, 2023** It was great to attend the [American Geophysical Union (AGU) Fall Meeting](https://www.agu.org/annual-meeting) in San Francisco, California (with over 24,000 people in attendance!), where I presented a [poster on our coronal hole detection work](https://doi.org/10.22541/essoar.171288623.31778488/v2).
+**December 10-15, 2023** It was great to attend the [American Geophysical Union (AGU) Fall Meeting](https://www.agu.org/annual-meeting) in San Francisco, California (with over 24,000 people in attendance!), where I presented a [poster on our coronal hole detection work](https://jalanderos.github.io/papers/#2023-agu).
