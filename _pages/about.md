@@ -20,16 +20,16 @@ During my three-year remote internship with the
 [Dr. Daniel da Silva](https://danieldasilva.org) 
 on (i) computational data analysis research for boundary detection with UQ of low density regions in the Sun’s atmosphere, known as coronal holes, using multi-spectral imagery, (ii) simulation analysis and visualization software development for the WSA ensemble model of the corona, and (iii) development of the
 [WSA Dashboard](https://ccmc.gsfc.nasa.gov/community-tools/WSA-Dashboard/), a visualization website for the WSA model (Slides are available
-[here](https://zenodo.org/records/14791324)). 
+[here](https://jalanderos.github.io/presentations/#2023-sww)).
 
 During my one-year remote internship with the
 [NCAR High Altitude Observatory](https://www2.hao.ucar.edu/), I worked under
 [Dr. Mike Wiltberger](https://www2.hao.ucar.edu/directory/mike-wiltberger) and
 [Dr. Nick Gross](https://www.linkedin.com/in/nicholasgross1) 
-on visualization software development for the [MAS]( https://www.predsci.com/corona/apr2024eclipse/mas.php) and
+on visualization software development for the [MAS](https://www.predsci.com/corona/apr2024eclipse/mas.php) and
 [GAMERA](https://cgs.jhuapl.edu/Models/gamera.php)
 magnetohydrodynamic (mag...ic for short...) models of the corona, solar wind, and Earth’s magnetosphere (Slides are available
-[here](https://zenodo.org/records/8417430)). 
+[here](https://jalanderos.github.io/presentations/#2023-dash-cgs)). 
 
 During my two-year involvement in the [Cal Poly Pomona Liquid Rocket Laboratory](https://www.cpplrl.com/), I worked under
 [Dr. Frank Chandler](https://www.linkedin.com/in/frank-chandler-17237b33/)
@@ -63,4 +63,4 @@ Recent News
 
 **May 20-23, 2024** I attended the [Space Weather with Quantified Uncertainties (SWQU) User Meeting](https://uahspace.wixsite.com/swqu/events) at the University of Alabama in Huntsville, where I learned about data-assimilative numerical models for flows over the solar surface, the structure of the solar atmosphere, and the dynamics of the solar wind.
 
-**December 10-15, 2023** It was great to attend the [American Geophysical Union (AGU) Fall Meeting](https://www.agu.org/annual-meeting) in San Francisco, California (with over 24,000 people in attendance!), where I presented a [poster on our coronal hole detection work](https://jalanderos.github.io/papers/#2023-agu).
+**December 10-15, 2023** It was great to attend the [American Geophysical Union (AGU) Fall Meeting](https://www.agu.org/annual-meeting) in San Francisco, California (with over 24,000 people in attendance!), where I presented a [poster on our coronal hole detection work](https://jalanderos.github.io/presentations/#2023-agu).
