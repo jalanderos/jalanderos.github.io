@@ -39,12 +39,18 @@ liquid rocket engine tests.
 
 I'd be glad to learn about your interests, so please feel free to reach out! My email and LinkedIn are under the above Follow button.
 
-Upcoming Events
-======
-**June 23-27, 2025** I will be attending the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Charleston, South Carolina, where I will present our work on data analysis and uncertainty quantification for coronal hole boundary detection in multi-spectral solar imagery.
+<!-- Upcoming Events
+====== -->
+<!-- **June 23-27, 2025** I will be attending the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Charleston, South Carolina, where I will present our work on data analysis and uncertainty quantification for coronal hole boundary detection in multi-spectral solar imagery. -->
 
 Recent News
 ======
+<!--
+Conferences: I attended the 
+Summer Schools: It was a great experience to participate in the
+-->
+**June 23-27, 2025** I attended the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Charleston, South Carolina, where I presented a [poster on our coronal hole detection work](https://jalanderos.github.io/presentations/#2025-shine) and learned about the science and prediction of solar flows, glows, and blow-ups (aka magnetic flux transport/coronal currents/solar wind formation, optically thin radiative transfer, and coronal mass ejection eruptions).
+
 **April 26, 2025** I attended the [Southern California Applied Mathematics Symposium (SOCAMS)](https://www.socams.org/) at UC Riverside, where I learned about research ranging from optimization and inverse problem theory to fluid mechanics and biology applications.
 
 **April 12, 2025** It was great to be at the [Barrio Logan Science and Art Expo](https://www.barriologansae.com/) with our research group and UC San Diego rocketry project teams, where we hosted space-themed outreach booths and got to see the excitement of so many kids and families.
@@ -55,7 +61,7 @@ Recent News
 
 **September 23, 2024** I moved to UC San Diego (only a few hours drive) to pursue a PhD!
 
-**September 16-20, 2024** I had the great opportunity to attend the [Collaborative Research Centre (CRC) International Summer School](https://www.sfb1294.de/events/event/spring-school-2024) in Boltenhagen, Germany, where I learned about theory, algorithms, and applications of data assimilation, the framework for integrating data and time-dependent models to make the best predictions possible. I presented a poster on how our coronal hole detection work could contribute to a data assimilation framework and I also got to meet many great members of the UC San Diego [Chaos, Computation, Analysis and Optimization (CaCAO)](https://cacao.ucsd.edu/) group there!
+**September 16-20, 2024** It was a great experience to participate in the [Collaborative Research Centre (CRC) International Summer School](https://www.sfb1294.de/events/event/spring-school-2024) in Boltenhagen, Germany, where I learned about theory, algorithms, and applications of data assimilation, the framework for integrating data and time-dependent models to make the best predictions possible. I presented a poster on how our coronal hole detection work could contribute to a data assimilation framework and I also got to meet many great members of the UC San Diego [Chaos, Computation, Analysis and Optimization (CaCAO)](https://cacao.ucsd.edu/) group there!
 
 **September 9-13, 2024** I attended the [Model Reduction and Surrogate Modeling (MORe)](https://more2024.sciencesconf.org/) conference here at UC San Diego, where I was exposed to the amazing diversity of mathematics, applications, and perspectives throughout the ROM research community.
 
@@ -63,4 +69,4 @@ Recent News
 
 **May 20-23, 2024** I attended the [Space Weather with Quantified Uncertainties (SWQU) User Meeting](https://uahspace.wixsite.com/swqu/events) at the University of Alabama in Huntsville, where I learned about data-assimilative numerical models for flows over the solar surface, the structure of the solar atmosphere, and the dynamics of the solar wind.
 
-**December 10-15, 2023** It was great to attend the [American Geophysical Union (AGU) Fall Meeting](https://www.agu.org/annual-meeting) in San Francisco, California (with over 24,000 people in attendance!), where I presented a [poster on our coronal hole detection work](https://jalanderos.github.io/presentations/#2023-agu).
+**December 10-15, 2023** I attended the [American Geophysical Union (AGU) Fall Meeting](https://www.agu.org/annual-meeting) in San Francisco, California (with over 24,000 people in attendance!), where I presented a [poster on our coronal hole detection work](https://jalanderos.github.io/presentations/#2023-agu).
