@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am a first-year PhD student under [Dr. Boris Kramer](http://kramer.ucsd.edu/index.html) in the Department of Mechanical and Aerospace Engineering at the University of California San Diego.
 
-I am broadly interested in computational methods for understanding and predicting diverse fluid flows, including methods for modeling, data analysis, and Uncertainty Quantification (UQ) of systems ranging from liquid rockets to the space weather-driving solar atmosphere. In particular, I’m excited to work on data-driven Reduced-Order Models (ROMs) and inverse problems for such systems in future research.
+I am broadly interested in computational methods for understanding and predicting diverse fluid flows, including methods for modeling, data analysis, and Uncertainty Quantification (UQ) of systems ranging from liquid-propelled rockets to the space weather-driving solar atmosphere. In particular, I’m excited to work on data-driven Reduced-Order Models (ROMs) and inverse problems for such systems in future research.
 
 I took interest in these areas during my undergraduate in aerospace engineering at Cal Poly Pomona, where I was lucky enough to intern with NASA and the National Center for Atmospheric Research (NCAR), as well as take part in a university rocketry project. I was also given the opportunity to work in leadership roles as lead intern for the NASA Heliophysics Division and as a lead/student mentor in my university rocketry project.
 
