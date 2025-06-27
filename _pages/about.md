@@ -19,8 +19,7 @@ During my three-year remote internship with the
 [Dr. Michael Kirk](https://science.gsfc.nasa.gov/sci/bio/michael.s.kirk), and
 [Dr. Daniel da Silva](https://danieldasilva.org) 
 on (i) computational data analysis research for boundary detection with UQ of low density regions in the Sun’s atmosphere, known as coronal holes, using multi-spectral imagery, (ii) simulation analysis and visualization software development for the WSA ensemble model of the corona, and (iii) development of the
-[WSA Dashboard](https://ccmc.gsfc.nasa.gov/community-tools/WSA-Dashboard/), a visualization website for the WSA model (Slides are available
-[here](https://jalanderos.github.io/presentations/#2023-sww)).
+[WSA Dashboard](https://ccmc.gsfc.nasa.gov/community-tools/WSA-Dashboard/), a visualization website for the WSA model.
 
 During my one-year remote internship with the
 [NCAR High Altitude Observatory](https://www2.hao.ucar.edu/), I worked under
@@ -28,8 +27,7 @@ During my one-year remote internship with the
 [Dr. Nick Gross](https://www.linkedin.com/in/nicholasgross1) 
 on visualization software development for the [MAS](https://www.predsci.com/corona/apr2024eclipse/mas.php) and
 [GAMERA](https://cgs.jhuapl.edu/Models/gamera.php)
-magnetohydrodynamic (mag...ic for short...) models of the corona, solar wind, and Earth’s magnetosphere (Slides are available
-[here](https://jalanderos.github.io/presentations/#2023-dash-cgs)). 
+magnetohydrodynamic (mag...ic for short...) models of the corona, solar wind, and Earth’s magnetosphere. 
 
 During my two-year involvement in the [Cal Poly Pomona Liquid Rocket Laboratory](https://www.cpplrl.com/), I worked under
 [Dr. Frank Chandler](https://www.linkedin.com/in/frank-chandler-17237b33/)
@@ -49,11 +47,14 @@ Recent News
 Conferences: I attended the 
 Summer Schools: It was a great experience to participate in the
 -->
-**June 23-27, 2025** I attended the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Charleston, South Carolina, where I presented a [poster on our coronal hole detection work](https://jalanderos.github.io/presentations/#2025-shine) and learned about the science and prediction of solar flows, glows, and blow-ups (aka magnetic flux transport/coronal currents/solar wind formation, optically thin radiative transfer, and coronal mass ejection eruptions).
+**June 23-27, 2025** I attended the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Charleston, South Carolina, where I presented a [poster](https://helioshine.org/coronal-hole-boundary-detection-in-extreme-ultraviolet-to-near-infrared-observations-with-quantified-uncertainty/) on our coronal hole detection work and learned about the science and prediction of solar flows, glows, and blow-ups (aka magnetic flux transport/coronal currents/solar wind formation, optically thin radiative transfer, and coronal mass ejection eruptions).
+<!-- (https://jalanderos.github.io/presentations/#2025-shine) -->
 
 **April 26, 2025** I attended the [Southern California Applied Mathematics Symposium (SOCAMS)](https://www.socams.org/) at UC Riverside, where I learned about research ranging from optimization and inverse problem theory to fluid mechanics and biology applications.
 
 **April 12, 2025** It was great to be at the [Barrio Logan Science and Art Expo](https://www.barriologansae.com/) with our research group and UC San Diego rocketry project teams, where we hosted space-themed outreach booths and got to see the excitement of so many kids and families.
+
+**January 31, 2025** Our paper on [Magnetic Field-Constrained Ensemble Image Segmentation of Coronal Holes in Chromospheric Observations](https://doi.org/10.1007/s11207-024-02416-6) has been published in Solar Physics. This work revisits near infrared and magnetic field images of the low solar atmosphere and quantifies uncertainties in detected boundaries to address key challenges in Coronal Hole (CH) detection, which plays a pivotal role in constraining both predictive models for space weather and scientific theories on solar wind formation at CH boundaries.
 
 **November 19-20, 2024** I attended the [Workshop on Fusion Energy and Pulsed Power](https://cer.ucsd.edu/_news-events-articles/2024/fusion-energy-and-pulsed-power-workshop.html) here at UC San Diego, where I learned about numerical models for plasmas in nuclear fusion devices and across astrophysics. It’s been incredibly interesting, both in this workshop and through seminars and courses on campus, to learn about the differences between the fusion, astrophysics, and heliophysics communities despite their shared study of plasmas.
 
@@ -69,4 +70,5 @@ Summer Schools: It was a great experience to participate in the
 
 **May 20-23, 2024** I attended the [Space Weather with Quantified Uncertainties (SWQU) User Meeting](https://uahspace.wixsite.com/swqu/events) at the University of Alabama in Huntsville, where I learned about data-assimilative numerical models for flows over the solar surface, the structure of the solar atmosphere, and the dynamics of the solar wind.
 
-**December 10-15, 2023** I attended the [American Geophysical Union (AGU) Fall Meeting](https://www.agu.org/annual-meeting) in San Francisco, California (with over 24,000 people in attendance!), where I presented a [poster on our coronal hole detection work](https://jalanderos.github.io/presentations/#2023-agu).
+**December 10-15, 2023** I attended the [American Geophysical Union (AGU) Fall Meeting](https://www.agu.org/annual-meeting) in San Francisco, California (with over 24,000 people in attendance!), where I presented a [poster on our coronal hole detection work](https://doi.org/10.22541/essoar.171288623.31778488/v2).
+<!-- (https://jalanderos.github.io/presentations/#2023-agu). -->

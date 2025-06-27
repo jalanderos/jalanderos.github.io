@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jaime Landeros"
+title                    : "Jaime Alex Landeros"
 title_separator          : "-"
-name                     : &name "Jaime Landeros"
+name                     : &name "Jaime Alex Landeros"
 description              : &description "personal description"
 url                      : https://jalanderos.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "jalanderos/jalanderos.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "Jaime Landeros"
+  name             : "Jaime Alex Landeros"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Mechanical Engineering"
   location         : "La Jolla, CA"
