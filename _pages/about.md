@@ -70,5 +70,5 @@ Summer Schools: It was a great experience to participate in the
 
 **May 20-23, 2024** I attended the [Space Weather with Quantified Uncertainties (SWQU) User Meeting](https://uahspace.wixsite.com/swqu/events) at the University of Alabama in Huntsville, where I learned about data-assimilative numerical models for flows over the solar surface, the structure of the solar atmosphere, and the dynamics of the solar wind.
 
-**December 10-15, 2023** I attended the [American Geophysical Union (AGU) Fall Meeting](https://www.agu.org/annual-meeting) in San Francisco, California (with over 24,000 people in attendance!), where I presented a [poster on our coronal hole detection work](https://doi.org/10.22541/essoar.171288623.31778488/v2).
+**December 10-15, 2023** I attended the [American Geophysical Union (AGU) Fall Meeting](https://www.agu.org/annual-meeting) in San Francisco, California (with over 24,000 people in attendance!), where I presented a [poster](https://doi.org/10.22541/essoar.171288623.31778488/v2) on our coronal hole detection work.
 <!-- (https://jalanderos.github.io/presentations/#2023-agu). -->
