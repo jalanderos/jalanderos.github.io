@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am a second-year PhD student under [Dr. Boris Kramer](http://kramer.ucsd.edu/index.html) in the Department of Mechanical and Aerospace Engineering at the University of California San Diego.
 
-Hello, I am broadly interested in computational methods for the analysis of diverse transport phenomena, including those for simulation, data analysis, and Uncertainty Quantification (UQ) of systems ranging from liquid rockets to the space weather-driving solar atmosphere. In particular, I’m excited to be working on multifidelity Bayesian parameter inference for space radiation transport as a part of the [Center for Advancing the Radiation Resilience of Electronics](https://carre-psaapiv.org/).
+I am broadly interested in computational methods for the analysis of diverse transport phenomena, including those for simulation, data analysis, and Uncertainty Quantification (UQ) of systems ranging from liquid rockets to the space weather-driving solar atmosphere. In particular, I’m excited to be working on multifidelity Bayesian parameter inference for space radiation transport as a part of the [Center for Advancing the Radiation Resilience of Electronics](https://carre-psaapiv.org/).
 
 I took interest in these areas during my undergraduate in aerospace engineering at Cal Poly Pomona, where I was lucky enough to intern with NASA and the National Center for Atmospheric Research (NCAR), as well as take part in a university rocketry project.
 
