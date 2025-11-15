@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a first-year PhD student under [Dr. Boris Kramer](http://kramer.ucsd.edu/index.html) in the Department of Mechanical and Aerospace Engineering at the University of California San Diego.
+Hello! I am a second-year PhD student under [Dr. Boris Kramer](http://kramer.ucsd.edu/index.html) in the Department of Mechanical and Aerospace Engineering at the University of California San Diego.
 
-I am broadly interested in computational methods for understanding and predicting diverse fluid flows, including methods for modeling, data analysis, and Uncertainty Quantification (UQ) of systems ranging from liquid-propelled rockets to the space weather-driving solar atmosphere. In particular, I’m excited to work on data-driven Reduced-Order Models (ROMs) and inverse problems for such systems in future research.
+Hello, I am broadly interested in computational methods for the analysis of diverse transport phenomena, including those for simulation, data analysis, and Uncertainty Quantification (UQ) of systems ranging from liquid rockets to the space weather-driving solar atmosphere. In particular, I’m excited to be working on multifidelity Bayesian parameter inference for space radiation transport as a part of the [Center for Advancing the Radiation Resilience of Electronics](https://carre-psaapiv.org/).
 
 I took interest in these areas during my undergraduate in aerospace engineering at Cal Poly Pomona, where I was lucky enough to intern with NASA and the National Center for Atmospheric Research (NCAR), as well as take part in a university rocketry project.
 
@@ -42,9 +42,10 @@ liquid rocket engine tests.
 
 I'd be glad to learn about your interests, so please feel free to reach out! My email and LinkedIn are under the above Follow button.
 
-<!-- Upcoming Events
-====== -->
+Upcoming Events
+======
 <!-- **June 23-27, 2025** I will be attending the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Charleston, South Carolina, where I will present our work on data analysis and uncertainty quantification for coronal hole boundary detection in multi-spectral solar imagery. -->
+**December 15-19, 2025** I will be attending the [American Geophysical Union (AGU) Annual Meeting](https://www.agu.org/annual-meeting) in New Orleans, Louisiana, where I will present our work on data analysis and uncertainty quantification for coronal hole boundary detection in multi-spectral solar imagery.
 
 Recent News
 ======
@@ -52,7 +53,11 @@ Recent News
 Conferences: I attended the 
 Summer Schools: It was a great experience to participate in the
 -->
-**June 23-27, 2025** I attended the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Charleston, South Carolina, where I presented a [poster](https://helioshine.org/coronal-hole-boundary-detection-in-extreme-ultraviolet-to-near-infrared-observations-with-quantified-uncertainty/) on our coronal hole detection work and learned about the science and prediction of solar flows, glows, and blow-ups (aka magnetic flux transport/coronal currents/solar wind formation, optically thin radiative transfer, and coronal mass ejection eruptions).
+**September 26, 2025** I'm glad to have passed my department qualifying exam in model reduction, computational fluid dynamics, and numerical differential equations. Many thanks to my advisor, Dr. Kramer, and committee members [Dr. Oliver Schmidt](https://flowphysics.ucsd.edu/) and [Dr. Sutanu Sarkar](http://cfdlab.ucsd.edu/people.html).
+
+attended the [Southern California Applied Mathematics Symposium (SOCAMS)](https://www.socams.org/) at UC Riverside, where I learned about research ranging from optimization and inverse problem theory to fluid mechanics and biology applications.
+
+**June 23-27, 2025** I attended the [Solar Heliospheric and INterplanetary Environment (SHINE) Workshop](https://helioshine.org/) in Charleston, South Carolina, where I presented a [poster](https://helioshine.org/coronal-hole-boundary-detection-in-extreme-ultraviolet-to-near-infrared-observations-with-quantified-uncertainty/) on our coronal hole detection work and learned about the science and prediction of solar flows, glows, and blow-ups (aka magnetic flux transport/coronal currents/solar wind formation, optically thin radiative transfer, and coronal mass ejection eruptions).
 <!-- (https://jalanderos.github.io/presentations/#2025-shine) -->
 
 **April 26, 2025** I attended the [Southern California Applied Mathematics Symposium (SOCAMS)](https://www.socams.org/) at UC Riverside, where I learned about research ranging from optimization and inverse problem theory to fluid mechanics and biology applications.
@@ -63,17 +68,17 @@ Summer Schools: It was a great experience to participate in the
 
 **November 19-20, 2024** I attended the [Workshop on Fusion Energy and Pulsed Power](https://cer.ucsd.edu/_news-events-articles/2024/fusion-energy-and-pulsed-power-workshop.html) here at UC San Diego, where I learned about numerical models for plasmas in nuclear fusion devices and across astrophysics. It’s been incredibly interesting, both in this workshop and through seminars and courses on campus, to learn about the differences between the fusion, astrophysics, and heliophysics communities despite their shared study of plasmas.
 
-**October 6-8, 2024** It was a great experience to participate in the [NextProf Pathfinder](https://nextprof.engin.umich.edu/nextprof-pathfinder/) workshop at Georgia Tech, where I was given advice by so many nice students and mentors, learned about the variety of careers in academia, and learned about the even greater variety of winding and rewarding paths towards them.
+**October 6-8, 2024** It was a great experience to participate in the [NextProf Pathfinder Workshop](https://nextprof.engin.umich.edu/nextprof-pathfinder/) at Georgia Tech, where I was given advice by so many nice students and mentors, learned about the variety of careers in academia, and learned about the even greater variety of winding and rewarding paths towards them.
 
 **September 23, 2024** I moved to UC San Diego (only a few hours drive) to pursue a PhD!
 
 **September 16-20, 2024** It was a great experience to participate in the [Collaborative Research Centre (CRC) International Summer School](https://www.sfb1294.de/events/event/spring-school-2024) in Boltenhagen, Germany, where I learned about theory, algorithms, and applications of data assimilation, the framework for integrating data and time-dependent models to make the best predictions possible. I presented a poster on how our coronal hole detection work could contribute to a data assimilation framework and I also got to meet many great members of the UC San Diego [Chaos, Computation, Analysis and Optimization (CaCAO)](https://cacao.ucsd.edu/) group there!
 
-**September 9-13, 2024** I attended the [Model Reduction and Surrogate Modeling (MORe)](https://more2024.sciencesconf.org/) conference here at UC San Diego, where I was exposed to the amazing diversity of mathematics, applications, and perspectives throughout the ROM research community.
+**September 9-13, 2024** I attended the [Model Reduction and Surrogate Modeling (MORe) Conference](https://more2024.sciencesconf.org/) here at UC San Diego, where I was exposed to the amazing diversity of mathematics, applications, and perspectives throughout the ROM research community.
 
-**June 10-14, 2024** It was a great experience to participate in the [SHIELD Summer School in Plasma Processes at the Edge of the Solar System]( https://shielddrivecenter.com/shield-summer-school/) at Boston University, where I learned about magnetohydrodynamic theory, deep space measurements of the solar wind’s state, the fundamental processes of turbulence and magnetic reconnection that determine this state, and finally how the microscopic process of charge exchange gives us global imagery of the heliosphere, the shield surrounding our home in space.
+**June 10-14, 2024** It was a great experience to participate in the [SHIELD Summer School in Plasma Processes at the Edge of the Solar System](https://shielddrivecenter.com/shield-summer-school/) at Boston University, where I learned about magnetohydrodynamic theory, deep space measurements of the solar wind’s state, the fundamental processes of turbulence and magnetic reconnection that determine this state, and finally how the microscopic process of charge exchange gives us global imagery of the heliosphere, the shield surrounding our home in space.
 
 **May 20-23, 2024** I attended the [Space Weather with Quantified Uncertainties (SWQU) User Meeting](https://uahspace.wixsite.com/swqu/events) at the University of Alabama in Huntsville, where I learned about data-assimilative numerical models for flows over the solar surface, the structure of the solar atmosphere, and the dynamics of the solar wind.
 
-**December 10-15, 2023** I attended the [American Geophysical Union (AGU) Fall Meeting](https://www.agu.org/annual-meeting) in San Francisco, California (with over 24,000 people in attendance!), where I presented a [poster](https://doi.org/10.22541/essoar.171288623.31778488/v2) on our coronal hole detection work.
+**December 10-15, 2023** I attended the [American Geophysical Union (AGU) Fall Meeting](https://www.agu.org/fall-meeting-2023) in San Francisco, California (with over 24,000 people in attendance!), where I presented a [poster](https://doi.org/10.22541/essoar.171288623.31778488/v2) on our coronal hole detection work.
 <!-- (https://jalanderos.github.io/presentations/#2023-agu). -->
